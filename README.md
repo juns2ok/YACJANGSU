@@ -32,7 +32,7 @@
 
 ## Profile
 - 이준석
-> e-mail: jjunseok98@naver.com
+> e-mail: svn301@naver.com
 
 
 ---------------------------------------
